@@ -7,5 +7,5 @@
 <p>I have previous experience teaching Math topics from simple arithmetic to algebra and trigonometry.</p>
 
 <ul>
-  <li><a href="https://www.linkedin.com/in/mauricio-guti%C3%A9rrez-leyva">Linkedin</a></li>
+  <li><a href="https://www.linkedin.com/in/mauricio-guti%C3%A9rrez-leyva">LinkedIn</a></li>
 </ul>
