@@ -8,4 +8,5 @@
 
 <ul>
   <li><a href="https://www.linkedin.com/in/mauricio-guti%C3%A9rrez-leyva">LinkedIn</a></li>
+  <li><a href="https://mauricio-gutierrez-blog.fly.dev/">My Blog</a></li>
 </ul>
